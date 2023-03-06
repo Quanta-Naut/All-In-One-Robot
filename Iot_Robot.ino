@@ -40,8 +40,8 @@ Servo myservo;
 
 //#define S1 4
 //#define S2 0
-#define BOT_Token "5822526059:AAFDQGsw0z-8rIa4y33gS7dMw1RqCexEd_E"
-#define CHAT_ID "6163982651"
+#define BOT_Token "-*-*-*-*-*-*"
+#define CHAT_ID "-*-*-*-*-*"
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
 WiFiClientSecure client;
