@@ -58,9 +58,9 @@ int alert = 0;
 int follow = 0;
 int remote = 0;
 
-#define BLYNK_TEMPLATE_ID "TMPLr_Zfej39"
-#define BLYNK_TEMPLATE_NAME "Quanta"
-#define BLYNK_AUTH_TOKEN "zU9Y42s52ZVSppKWh6TJfos-9t2whaCK"
+#define BLYNK_TEMPLATE_ID "*******"
+#define BLYNK_TEMPLATE_NAME "********"
+#define BLYNK_AUTH_TOKEN "*******************-*******"
 
 void setup() {
 
